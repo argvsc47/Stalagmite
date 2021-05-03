@@ -25,6 +25,6 @@ Net Request, syntax :                 netr <method:get|post> <url> <!method=post
 # Upcoming
 I'm Planning to add a GUI so that's it doesn't need a terminal to run (it's gonna have it's own)  
 Support of more HTTP methods  
-Use the env and variables, currently you can declare vars but that's it
-Add scripting
+Use the env and variables, currently you can declare vars but that's it  
+Add scripting  
 Add procedures (mini-scripts that can be loaded directly like functions)
