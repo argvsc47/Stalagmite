@@ -10,7 +10,7 @@ arguments that start with ? means their optional
 if a paramater has limited values their going to be specified after : of the argument 
 sometimes parameters are only mandatory if a paramter has a specific value it's going to be indicated between ! in this case
 
-```bash
+```
 New directory, syntax :               nwd <dirname>
 Remove directory, syntax :            rmd <dirname>
 Delete file, syntax :                 dlf <filename;*>
@@ -18,6 +18,6 @@ Wipe directory, syntax:               wipe <dirname>
 Change directory, syntax :            cd <dirname>
 List, syntax :                        ls <?dirname>
 Enviroment Variable, syntax :         var <varname> <value>
-Execute Program, syntax :                     exec <program> <?..>
+Execute Program, syntax :             exec <program> <?..>
 Net Request, syntax :                 netr <method:get|post> <url> <!method=post!jsonfile>
 ```
