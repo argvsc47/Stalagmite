@@ -3,12 +3,12 @@ A CLI made to experiment with C#, and also because i wanted to make my own cli
 
 # Command list
 
-anything between plain <> is mandatory
-wildcards are specified after ; of the argument
-arguments that start with ? means their optional
-.. indicates any number of arguments
-if a paramater has limited values their going to be specified after : of the argument 
-sometimes parameters are only mandatory if a paramter has a specific value it's going to be indicated between ! in this case
+anything between plain <> is mandatory  
+wildcards are specified after ; of the argument  
+arguments that start with ? means their optional  
+.. indicates any number of arguments  
+if a paramater has limited values their going to be specified after : of the argument   
+sometimes parameters are only mandatory if a paramter has a specific value it's going to be indicated between ! in this case  
 
 ```
 New directory, syntax :               nwd <dirname>
