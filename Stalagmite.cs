@@ -80,7 +80,7 @@ namespace Stalagmite {
 				if (File.Exists(args[1]) == false) {
 					Console.WriteLine("Inexistant File.");
 				} else {
-					Console.WriteLine("Deleting File {0}..", args[1s])
+					Console.WriteLine("Deleting File {0}..", args[1])
 					File.Delete(args[1]);
 					Console.WriteLine("Successfully deleted File {0}.", args[1])
 				}
