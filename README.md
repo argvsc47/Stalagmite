@@ -27,4 +27,3 @@ Net Request, syntax         :         netr <method:get|post> <url> <!method=post
 - Support of more HTTP methods  
 - Use the env and variables, currently you can declare vars but that's it  
 - Add scripting  
-- Add procedures (functions written in their own file)
